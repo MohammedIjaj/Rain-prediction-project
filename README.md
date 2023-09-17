@@ -11,8 +11,6 @@ Predict rainfall with our machine learning-based model. Enhance planning, agricu
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Maintainers 
 
 - Mohammed Ijaj/https://github.com/MohammedIjaj)
